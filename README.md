@@ -207,6 +207,26 @@ codeatlas/
 
 ***
 
+***
+## 🚀 Roadmap: Knowledge Graph & Flow Analysis
+
+### Next Major Feature — Interactive Code Flow Understanding
+
+We’re taking CodeAtlas beyond semantic search!  
+The upcoming release will introduce **knowledge graph–based code flow analysis**, allowing developers to ask architectural questions like:
+
+- *“Show me the complete authentication flow”*  
+- *“Explain how payment processing works end-to-end”*  
+
+### 🔑 Key Capabilities
+- Visual flow diagrams of execution paths  
+- Cross-module dependency tracking with interactive navigation  
+- Impact analysis to understand change propagation  
+- Architectural pattern recognition (design patterns, bottlenecks)  
+
+This will evolve CodeAtlas into a **true architectural understanding system**, making it invaluable for onboarding, refactoring, and documenting complex system behaviors automatically.
+***
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

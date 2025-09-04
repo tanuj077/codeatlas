@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+env.bak/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.out
+
+# Coverage / Testing
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.cache/
+.tox/
+
+# Streamlit
+.streamlit/
+
+# Node / Frontend (if you add npm/yarn later for UI assets)
+node_modules/
+dist/
+build/
+.npm/
+.yarn/
+
+# Hugging Face / Models / Data
+app/models/hf_cache/
+app/models/__pycache__/
+vector_store/
+datasets/
+*.bin
+*.pt
+*.h5
+*.ckpt
+
+# Generated JSON/XML
+*.json
+*.xml
+
+# SQLite / DBs
+*.db
+*.sqlite3
+
+# Reports / Docs builds
+*.pdf
+*.docx
+*.pptx
+_site/
+docs/_build/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
